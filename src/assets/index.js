@@ -1,0 +1,1 @@
+export const ARROW_DOWN_ICON = require('./ico_arrow_down.svg');
